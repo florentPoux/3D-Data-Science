@@ -23,9 +23,9 @@ This book is for you, the curious mind who wants to break free from routine and 
 
 All supporting materials for this book—including datasets, code examples, exercises, and complimentary courses—are centrally hosted at the **3D Geodata Academy**. This is your primary learning hub for a complete, standalone experience.
 
-[**\>\> Access All Supporting Material at the 3D Geodata Academy \<\<**](https://www.google.com/search?q=https://www.3dgeodata.academy/)
+[**\>\> Access All Supporting Material at the 3D Geodata Academy \<\<**](https://learngeodata.eu/3d-data-science-with-python)
 
-You can also scan the QR code below, as found in the book's preface, to access the learning hub directly.
+You can also scan the QR code, as found in the book's preface, to access the learning hub directly.
 
 Additional resources and official errata can also be found on the O'Reilly product page:
 
@@ -39,7 +39,7 @@ To get started, you'll need:
 * Python 3.8+ installed.  
 * The required Python libraries, which can be installed via pip.
 
-pip install numpy pandas matplotlib open3d scikit-learn pyvista torch
+```pip install numpy pandas matplotlib open3d scikit-learn pyvista torch```
 
 For detailed instructions on setting up your environment, please refer to Chapter 3 of the book.
 
@@ -70,7 +70,7 @@ This book provides a comprehensive, step-by-step journey through the world of 3D
 
 If you use the code or concepts from this book in your research, please cite it as follows:
 
-Poux, F. (2025). 3D Data Science with Python: Building Accurate Digital Environments with 3D Point Cloud Workflows. O'Reilly Media.
+```Poux, F. (2025). 3D Data Science with Python: Building Accurate Digital Environments with 3D Point Cloud Workflows. O'Reilly Media.```
 
 ### **📄 License**
 
@@ -82,5 +82,6 @@ The code in this repository is licensed under the MIT License. See the LICENSE f
 
 ### **🌐 Connect**
 
-* **LinkedIn:** [Florent Poux](https://www.google.com/search?q=https://www.linkedin.com/in/florent-poux-phd-25752371/)  
-* **O'Reilly:** [Author Page](https://www.google.com/search?q=https://www.oreilly.com/search/?query%3Dauthor%253A%2522Florent%2520Poux%2522)
+* **LinkedIn:** [Florent Poux](https://www.linkedin.com/in/florent-poux-point-cloud/)
+* **3D Academy:** [3D Geodata Academy](https://learngeodata.eu)  
+* **O'Reilly:** [Author Page](https://www.oreilly.com/library/view/3d-data-science/9781098161323/)
