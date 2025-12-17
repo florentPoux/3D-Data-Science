@@ -1,21 +1,68 @@
-MIT License
+# Dual License
 
-Copyright (c) 2024 Florent Poux
+Copyright (c) 2025 Florent Poux
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This repository is licensed under a **dual-license model** depending on your ownership of the book "3D Data Science with Python" (O'Reilly Media, 2025).
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+---
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+## License for Book Owners (Commercial Use Permitted)
+
+If you have purchased or have legitimate access to a copy of **"3D Data Science with Python"** by Florent Poux (O'Reilly Media), you are granted the following rights:
+
+Permission is hereby granted, free of charge, to any person who owns a copy of the book to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+1. The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+2. Attribution to the original author (Florent Poux) and the book must be maintained in derivative works.
+
+**THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.**
+
+---
+
+## License for Non-Book Owners (Non-Commercial Use Only)
+
+If you do **not** own a copy of the book, the code in this repository is licensed under the following terms:
+
+### Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+
+You are free to:
+
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material
+
+Under the following terms:
+
+- **Attribution** — You must give appropriate credit to Florent Poux, provide a link to this repository, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the author endorses you or your use.
+
+- **NonCommercial** — You may not use the material for commercial purposes.
+
+- **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+For the full CC BY-NC 4.0 license text, visit: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+---
+
+## How to Obtain Commercial Rights
+
+To obtain full commercial usage rights, purchase the book:
+
+- **Amazon:** https://amzn.to/4kOcCTX
+- **O'Reilly:** https://www.oreilly.com/library/view/3d-data-science/9781098161323/
+
+---
+
+## Summary
+
+| Status | License | Commercial Use |
+|--------|---------|----------------|
+| **Book Owner** | Permissive (MIT-style) | Allowed |
+| **Non-Book Owner** | CC BY-NC 4.0 | Not Allowed |
+
+---
+
+## Questions?
+
+For licensing inquiries, please contact the author through:
+- **LinkedIn:** https://www.linkedin.com/in/florent-poux-point-cloud/
+- **3D Geodata Academy:** https://learngeodata.eu/3d-data-science-with-python/
