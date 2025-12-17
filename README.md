@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://learngeodata.eu/wp-content/uploads/2023/09/3D_DATA_SCIENCE_OREILLY_FLORENT_POUX.png" alt="3D Data Science with Python Book Cover" width="300">
+  <img src="RESOURCES/book-cover.png" alt="3D Data Science with Python Book Cover" width="300">
 </p>
 
 <h1 align="center">3D Data Science with Python</h1>
@@ -109,26 +109,26 @@ For detailed environment setup instructions, refer to **Chapter 3** of the book.
 
 ## Chapters
 
-| Part | Chapter | Title |
-|:----:|:-------:|-------|
-| **I** | 1 | Introduction to 3D Data Science |
-| | 2 | Resources and Software Essentials |
-| | 3 | 3D Python and 3D Data Setup |
-| **II** | 4 | 3D Data Representation and Structuration |
-| | 5 | Developing a Multimodal 3D Viewer with Python |
-| | 6 | Point Cloud Data Engineering |
-| | 7 | Building 3D Analytical Apps |
-| **III** | 8 | 3D Data Analysis |
-| | 9 | 3D Shape Recognition |
-| | 10 | 3D Modeling: Advanced Techniques |
-| | 11 | 3D Building Reconstruction from LiDAR Data |
-| **IV** | 12 | 3D Machine Learning: Clustering |
-| | 13 | Graphs and Foundation Models for Unsupervised Segmentation |
-| | 14 | Supervised 3D Machine Learning Fundamentals |
-| **V** | 15 | 3D Deep Learning with PyTorch |
-| | 16 | PointNet for 3D Object Classification |
-| | 17 | The 3D Data Science Workflow |
-| | 18 | From 3D Generative AI to Spatial AI |
+| Part | Chapter | Title | Code |
+|:----:|:-------:|-------|:----:|
+| **I** | 1 | Introduction to 3D Data Science | [View](CHAPTER_01/) |
+| | 2 | Resources and Software Essentials | [View](CHAPTER_02/) |
+| | 3 | 3D Python and 3D Data Setup | [View](CHAPTER_03/) |
+| **II** | 4 | 3D Data Representation and Structuration | [View](CHAPTER_04/) |
+| | 5 | Developing a Multimodal 3D Viewer with Python | [View](CHAPTER_05/) |
+| | 6 | Point Cloud Data Engineering | [View](CHAPTER_06/) |
+| | 7 | Building 3D Analytical Apps | [View](CHAPTER_07/) |
+| **III** | 8 | 3D Data Analysis | [View](CHAPTER_08/) |
+| | 9 | 3D Shape Recognition | [View](CHAPTER_09/) |
+| | 10 | 3D Modeling: Advanced Techniques | [View](CHAPTER_10/) |
+| | 11 | 3D Building Reconstruction from LiDAR Data | [View](CHAPTER_11/) |
+| **IV** | 12 | 3D Machine Learning: Clustering | [View](CHAPTER_12/) |
+| | 13 | Graphs and Foundation Models for Unsupervised Segmentation | [View](CHAPTER_13/) |
+| | 14 | Supervised 3D Machine Learning Fundamentals | [View](CHAPTER_14/) |
+| **V** | 15 | 3D Deep Learning with PyTorch | [View](CHAPTER_15/) |
+| | 16 | PointNet for 3D Object Classification | [View](CHAPTER_16/) |
+| | 17 | The 3D Data Science Workflow | [View](CHAPTER_17/) |
+| | 18 | From 3D Generative AI to Spatial AI | [View](CHAPTER_18/) |
 
 ---
 
